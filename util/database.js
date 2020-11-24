@@ -12,7 +12,6 @@
 //   const mongodb = require('mongodb');
 //   const MongoClient = mongodb.MongoClient;
 //   MongoClient.connect(
-//     'mongodb+srv://flowrin13:wp8g6Ckw@cluster0.q8jry.mongodb.net/shop?retryWrites=true&w=majority'
 //   )
 //     .then((client) => {
 //       console.log('Connected');

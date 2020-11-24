@@ -1,6 +1,5 @@
 const path = require('path');
 const MONGODBURI =
-  'mongodb+srv://flowrin13:wp8g6Ckw@cluster0.q8jry.mongodb.net/shop';
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
